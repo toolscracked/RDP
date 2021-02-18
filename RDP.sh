@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
+printf "Wait 1 min to 4" >&2
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
